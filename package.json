@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-xunfeiListenSpeaking",
+  "version": "0.0.1",
+  "description": "科大讯飞的语音听说读写的cordova插件 \r ### Supported Platforms",
+  "cordova": {
+    "id": "cordova-plugin-xunfeiListenSpeaking",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soakit/cordova-plugin-IFlyspeech.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soakit/cordova-plugin-IFlyspeech/issues"
+  },
+  "homepage": "https://github.com/soakit/cordova-plugin-IFlyspeech#readme"
+}
